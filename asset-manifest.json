@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Proofreader/static/css/main.497aef8f.css",
+    "main.js": "/Proofreader/static/js/main.782bbb42.js",
+    "static/js/787.4da2ab80.chunk.js": "/Proofreader/static/js/787.4da2ab80.chunk.js",
+    "index.html": "/Proofreader/index.html",
+    "main.497aef8f.css.map": "/Proofreader/static/css/main.497aef8f.css.map",
+    "main.782bbb42.js.map": "/Proofreader/static/js/main.782bbb42.js.map",
+    "787.4da2ab80.chunk.js.map": "/Proofreader/static/js/787.4da2ab80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.497aef8f.css",
+    "static/js/main.782bbb42.js"
+  ]
+}
